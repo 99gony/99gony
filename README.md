@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=000000">
 <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=#000000">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=#764ABC">
-<img src="https://img.shields.io/badge/styled components-black?style=for-the-badge&logo=styled-components&logoColor=#DB7093">
+<img src="https://img.shields.io/badge/styled components-white?style=for-the-badge&logo=styled-components&logoColor=#DB7093">
 </div>
 <div align="center">
 <h2>Back</h2>
