@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
-</br>
+<h1 align="center"><b>Welcome 👋</b></h1>
 <div align="center">
 <h2>Front</h2>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
