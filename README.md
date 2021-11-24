@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=#010101">
+<img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=#FFCA28">
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 </div>
